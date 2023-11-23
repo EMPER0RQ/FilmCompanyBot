@@ -137,5 +137,5 @@ I can't find the <b>{}</b> in my database! 🥲
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://t.me/TG_PRASHANT>BOSS😎</a>
+<a href=https://telegram.me/TG_PRASHANT>BOSS😎</a>
 
