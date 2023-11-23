@@ -6,10 +6,10 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Hansaka Anuhas
-★ Username: @Hansaka_Anuhas
-★ ID: <code>5493832202</code>
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: TG_PRASHANT💸
+★ Username: @TG_PRASHANT💸
+★ ID: <code>5311466386</code>
+★ Country: INDIA 🇮🇳🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -134,10 +134,8 @@ I can't find the <b>{}</b> in my database! 🥲
 
     SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
 
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta>ʜᴇʀᴇ</a>
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://telegram.me/Hansaka_Anuhas>ʜᴀɴsᴀᴋᴀ</a>
-<a href=https://telegram.me/Technicalaks123>ᴀᴋs</a></b>"""
+<a href=https://t.me/TG_PRASHANT>BOSS😎</a>
+
