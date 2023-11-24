@@ -141,4 +141,4 @@ I can't find the <b>{}</b> in my database! 🥲
 - ꜱᴏᴜʀᴄᴇ - <a href=https://telegram.me/AZ_Botz_Suppors>Repo</a>
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://telegram.me/TG_PRASHANT>BOSS💸</a>
+<a href=https://telegram.me/TG_PRASHANT>BOSS</a>
