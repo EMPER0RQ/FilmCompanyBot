@@ -138,7 +138,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://telegram.me/AZ_Botz_Suppors>Repo</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://telegram.me/AZ_Botz_Support>Repo</a>
 
-ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://telegram.me/TG_PRASHANT>BOSS</a>
+ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://telegram.me/TG_PRASHANT>MY LORD💎</a>
+    
