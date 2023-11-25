@@ -50,7 +50,7 @@ if len(LOG_CHANNEL) == 0:
 else:
     LOG_CHANNEL = int(LOG_CHANNEL)
     
-SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1001654984339')
+SUPPORT_GROUP = environ.get('SUPPORT_GROUP', 'https://t.me/AZ_Botz_Support')
 if len(SUPPORT_GROUP) == 0:
     logging.error('SUPPORT_GROUP is missing, exiting now')
     exit()
@@ -105,7 +105,8 @@ if len(BIN_CHANNEL) == 0:
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "")
+URL = environ.get("URL", "https://github.com/EMPER0RQ/FilmCompanyBot")
+")
 if len(URL) == 0:
     logging.error('URL is missing, exiting now')
     exit()
