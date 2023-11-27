@@ -23,14 +23,14 @@ API_HASH = environ.get('API_HASH', '8391f2f86c6f4f0a4b6f39dca3330479')
 if len(API_HASH) == 0:
     logging.error('API_HASH is missing, exiting now')
     exit()
-BOT_TOKEN = environ.get('BOT_TOKEN', '6172147021:AAEH8MRTdYtadTZu-mDZ1UIHBHzihBSzF6c')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6312891523:AAHS8em1Yzz20WUd3bvE4MY5ykci9GB6rT4')
 if len(BOT_TOKEN) == 0:
     logging.error('BOT_TOKEN is missing, exiting now')
     exit()
 PORT = int(environ.get('PORT', '8080'))
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://telegra.ph/file/58fef5cb458d5b29b0186.jpg https://telegra.ph/file/f0aa4f433132769f8970c.jpg https://telegra.ph/file/f515fbc2084592eca60a5.jpg https://telegra.ph/file/20dbdcffaa89bd3d09a74.jpg https://telegra.ph/file/6045ba953af4def846238.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/b701c45356fd2690bb87a.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '5311466386')
