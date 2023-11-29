@@ -105,7 +105,7 @@ if len(BIN_CHANNEL) == 0:
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "https://github.com/EMPER0RQ/FilmCompanyBot")
+URL = environ.get("URL", "https://filmcompanybot-caf51beac78f.herokuapp.com/")
 if len(URL) == 0:
     logging.error('URL is missing, exiting now')
     exit()
